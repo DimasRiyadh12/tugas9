@@ -37,7 +37,7 @@ for item in nilai:
 print("==================================================================")
 Setelah Kita memasukan inputan dibawah ini ini lah hasil inputan Tersebut
 
-![hasil1](hasil.tugas1)
+![hasil1](hasil.tugas1.png)
  
 Dan Setelah Kita Menemukan Hasil Nya Mari Saya Jelaskan Perinciannya
 
