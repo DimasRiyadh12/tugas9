@@ -7,7 +7,7 @@ ________________________________________________________________________________
 ## Program Data Mahasiswa
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
 
-![tugas9](tugas.png)
+![tugas9](poto.png)
 
 ## Berikut Inputannya :
 nilai = []
@@ -37,7 +37,7 @@ for item in nilai:
 print("==================================================================")
 Setelah Kita memasukan inputan dibawah ini ini lah hasil inputan Tersebut
 
-![hasil1](foto/hasil1.png)
+![hasil1](hasil.tugas1)
  
 Dan Setelah Kita Menemukan Hasil Nya Mari Saya Jelaskan Perinciannya
 
