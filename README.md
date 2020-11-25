@@ -1,10 +1,12 @@
-##  Tugas Pertemuan 9
+## Tugas Pertemuan 9
 ## Nama: Dimas Riyadh Alfajri 
 ## Kelas: TI.20.A1
 ## NIM: 312010029
 ## MATKUL: BAHASA PEMROGRAMAN
-___________________________________________________________________________________\
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 ## Program Data Mahasiswa
+
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
 
 ![tugas9](poto.png)
